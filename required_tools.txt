@@ -1,0 +1,7 @@
+Azure Machine Learning
+Azure Databricks
+Azure Cognitive Services
+Azure API Management
+Azure Key Vault
+Azure Monitor
+Azure Cosmos DB
